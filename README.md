@@ -2,7 +2,7 @@
 word square bracket bibliography ISO690Nmerical ISO690 Numerical 
 
 ## why
-In Word 2016, the ISO 690 Numeric style in the bibliography is shown as standard in parentheses __ (number) __, and as I needed it to appear in square brackets __ [number] __.
+In Word 2016, the ISO 690 Numeric style in the bibliography is shown as standard in parentheses __(number)__, and as I needed it to appear in square brackets __[number]__.
 
 W Wordzie 2016 styl ISO690 Numeryczny w bibliografii pokazuje się standarowo w nawiasach zwykłych __(numer)__, a jak potrzebowałem aby pojawiał sie w nawiasach kwadratowych __[numer]__.
 
