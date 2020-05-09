@@ -10,10 +10,10 @@ W Wordzie 2016 styl ISO690 Numeryczny w bibliografii pokazuje się standarowo w 
 
 
 `C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography\Style\ISO690Nmerical.XSL`
-for <user> --> so it's needed for all users
+for \<__selected user__\> -> ***so it's needed for all users***
 
 `C:\Program Files\Microsoft Office\root\Office16\Bibliography\Style\ISO690Nmerical.XSL`
-as I understand only for NEW created user
+=> as I understand only for **NEW** word user
  
 ## modification to do
 
@@ -42,4 +42,4 @@ as I understand only for NEW created user
 ```
 
 ## final file:
-[file do download](../blob/master/ISO690Nmerical.XSL)
+[file do download \<ISO690Nmerical.XSL\>](../blob/master/ISO690Nmerical.XSL)
