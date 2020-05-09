@@ -2,15 +2,17 @@
 word square bracket bibliography ISO690Nmerical ISO690 Numerical 
 
 ## why
-In Word 2016  ISO690 Numerical citation reference appear as __(number)__ but I need __[number]__
+In Word 2016, the ISO 690 Numeric style in the bibliography is shown as standard in parentheses __ (number) __, and as I needed it to appear in square brackets __ [number] __.
+
+W Wordzie 2016 styl ISO690 Numeryczny w bibliografii pokazuje się standarowo w nawiasach zwykłych __(numer)__, a jak potrzebowałem aby pojawiał sie w nawiasach kwadratowych __[numer]__.
 
 ## files to modify
 
 
-C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography\Style\ISO690Nmerical.XSL
+`C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography\Style\ISO690Nmerical.XSL`
 for <user> --> so it's needed for all users
 
-C:\Program Files\Microsoft Office\root\Office16\Bibliography\Style\ISO690Nmerical.XSL
+`C:\Program Files\Microsoft Office\root\Office16\Bibliography\Style\ISO690Nmerical.XSL`
 as I understand only for NEW created user
  
 ## modification to do
@@ -37,4 +39,7 @@ as I understand only for NEW created user
     <xsl:value-of select="/*/b:Locals/b:Local[@LCID=$_LCID]/b:General/b:CloseBracket"/> -->
    <xsl:text>]</xsl:text>
   </xsl:template>
-  `
+```
+
+## final file:
+[file do download](../blob/master/ISO690Nmerical.XSL)
